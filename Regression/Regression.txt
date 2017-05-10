@@ -1,0 +1,6 @@
+Decision_Tree_Regression
+Multiple_Linear_Regression
+Polynomial_Regression
+Random_Forest_Regression
+Simple_Linear_Regression
+SVR
