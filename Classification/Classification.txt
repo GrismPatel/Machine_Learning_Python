@@ -1,1 +1,5 @@
-Classification
+Kernel SVM
+KNN
+Logical_Classification
+Random_Decision_tree
+SVM
