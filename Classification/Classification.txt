@@ -3,3 +3,4 @@ KNN
 Logical_Classification
 Random_Decision_tree
 SVM
+Naive Bayes
