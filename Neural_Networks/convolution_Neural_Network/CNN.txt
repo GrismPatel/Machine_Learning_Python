@@ -1,1 +1,3 @@
-
+• Using 10000 images of Dogs and Cats as dataset, the input size of the image is 64*64 in RGB format, the algorithm classifies and predicts if the image is Dog or Cat.
+• The algorithm was implemented in Python and runs with accuracy of 85%.
+• The dataset is images from UCI.
