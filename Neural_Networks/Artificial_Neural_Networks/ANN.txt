@@ -1,0 +1,3 @@
+• Using dataset of 10000 bank customers and their account activity, the algorithm implemented in python, predicts if the customer is going to leave the bank.
+• This algorithm uses 3 hidden layers with 2 rectifier and 1 sigmoid activation function. The algorithm runs with 86% accuracy.
+• Used TensorFlow, Keras.
